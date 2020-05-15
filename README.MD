@@ -3,3 +3,5 @@
 #### kaggle.com/blalyasar
 #### twitter.com/blalyasar
 #### blalyasar@gmail.com
+
+!(/ram-vs-cpu.JPG)
