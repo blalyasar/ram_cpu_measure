@@ -5,6 +5,6 @@
 #### blalyasar@gmail.com
 
 
-![](ttps://github.com/blalyasar/ram_cpu_measure/blob/master/ram-vs-cpu.JPG "")
+![--](ttps://github.com/blalyasar/ram_cpu_measure/blob/master/ram-vs-cpu.JPG "--")
 
 
