@@ -6,5 +6,5 @@
 
 ![GitHub Logo] (https://github.com/blalyasar/ram_cpu_measure/blob/master/ram-vs-cpu.JPG)
 
-![alt text](https://github.com/blalyasar/ram_cpu_measure/blob/master/ram-vs-cpu.JPG "Logo Title Text 1")
+!(https://github.com/blalyasar/ram_cpu_measure/blob/master/ram-vs-cpu.JPG )
 
