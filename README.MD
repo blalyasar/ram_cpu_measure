@@ -4,4 +4,4 @@
 #### twitter.com/blalyasar
 #### blalyasar@gmail.com
 
-![] (/ram-vs-cpu.JPG)
+![GitHub Logo] (/ram-vs-cpu.JPG)
